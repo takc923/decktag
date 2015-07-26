@@ -2,7 +2,7 @@
     "name": "decktag",
     "manifest_version": 2,
     "version": "0.1.0",
-    "description": "keep hash tag in your tweet form of tweetdeck",
+    "description": "keep hashtags in your tweet form of tweetdeck",
     "content_scripts": [
         {
             "matches": ["https://tweetdeck.twitter.com/"],

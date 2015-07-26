@@ -1,2 +1,2 @@
 # decktag
-This chrome extension keep hash tag in your tweet form of tweetdeck.
+This chrome extension keeps hashtags in your tweet form of tweetdeck.
